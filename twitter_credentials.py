@@ -1,0 +1,5 @@
+#Variables with user credentials - apps.twitter.com for your own credentials
+ACCESS_TOKEN = "YOUR_ACCESS_TOKEN"
+ACCESS_TOKEN_SECRET = "YOUR_SECRET_ACCESS_TOKEN"
+CONSUMER_KEY = "YOUR_CONSUMER_KEY"
+CONSUMER_SECRET = "YOUR_SECRET_CONSUMER_KEY"
