@@ -13,10 +13,11 @@ See the tweepy documentation: 	http://www.tweepy.org/
 
 
 You must have installed the following:
---pip install tweepy
---pip install pandas
---pip install numpy
---pip install matplotlib
---pip install textblob
+
+	--pip install tweepy
+	--pip install pandas
+	--pip install numpy
+	--pip install matplotlib
+	--pip install textblob
 
 **Inspired from https://github.com/vprusso**
